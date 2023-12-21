@@ -1,0 +1,6 @@
+/*
+
+Prefer not to use var because issue in block scope and functional Scope
+Instead use let and const
+
+*/
